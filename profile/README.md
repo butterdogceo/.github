@@ -1,3 +1,5 @@
+![GitHub stats card](../assets/badge.svg)
+
 ## Greetings
 
 I am the CEO of [ButterDogCo](https://github.com/butterdogco). I create a wide range of websites, apps, and games.
@@ -75,8 +77,6 @@ I wouldn't consider myself a professional graphic designer, but I do think I do 
     </td>
   </tr>
 </table>
-
-*I have also learned and used Photoshop, but I won't be listing that above as I rarely use it.*
 
 ## Contact me
 
