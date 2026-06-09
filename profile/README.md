@@ -1,4 +1,4 @@
-![GitHub stats card](../assets/badge.svg)
+![GitHub stats card](https://cdn.jsdelivr.net/gh/butterdogceo/.github@main/assets/badge.svg)
 
 I am the CEO of [ButterDogCo](https://github.com/butterdogco). I create a wide range of websites, apps, and games.
 
