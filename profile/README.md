@@ -1,7 +1,5 @@
 ![GitHub stats card](../assets/badge.svg)
 
-## Greetings
-
 I am the CEO of [ButterDogCo](https://github.com/butterdogco). I create a wide range of websites, apps, and games.
 
 ## Experience
