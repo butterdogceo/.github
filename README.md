@@ -1,2 +1,3 @@
 # .github
-My profile's README
+
+This is the repository for [my profile](https://github.com/butterdogceo)'s README.
