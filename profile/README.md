@@ -63,9 +63,26 @@ Outside of websites and applications, I enjoy making Roblox games. Usually, my p
   </tr>
 </table>
 
+### Graphic design
+
+I wouldn't consider myself a professional graphic designer, but I do think I do a pretty good job. Many of the backgrounds and icons on ButterDogCo and my projects were designed by me!
+
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="35" height="35" alt="Canva Logo">
+      <p>Canva</p>
+    </td>
+  </tr>
+</table>
+
+*I have also learned and used Photoshop, but I won't be listing that above as I rarely use it.*
+
 ## Contact me
 
 Feel free to contact me via any of the following:
 
 - Email: <keegan@butterdogco.com>
 - Discord: @k_ws
+
+*Thank you for reading, and also, credits to [Devicon](https://devicon.dev/) for the fancy icons!*
