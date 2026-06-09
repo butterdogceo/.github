@@ -15,7 +15,7 @@ jobs:
       - uses: datarootsio/github-stats-card@v1
         with:
           username: butterdogceo
-          gh_token_stats: ${{ secrets.GH_PAT }}
+          gh_token_stats: ${{ secrets.GITHUB_TOKEN }}
           gh_token_commits: ${{ secrets.GITHUB_TOKEN }}
           badge_path: assets/badge.svg
           header: "👋 Hello,"
